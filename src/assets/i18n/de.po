@@ -79,10 +79,10 @@ msgid " but datastore "
 msgstr " aber Datenspeicher "
 
 msgid " day, "
-msgstr ""
+msgstr " Tag, "
 
 msgid " days, "
-msgstr ""
+msgstr " Tage, "
 
 msgid " disks"
 msgstr " Datenträger"
@@ -116,10 +116,10 @@ msgstr ""
 "die Systemperformance beeinträchtigen."
 
 msgid " minute"
-msgstr ""
+msgstr " Minute"
 
 msgid " minutes"
-msgstr ""
+msgstr " Minuten"
 
 msgid " official plugins"
 msgstr " offizielle Plugins"
@@ -190,7 +190,7 @@ msgid "(Remove pool from database)"
 msgstr "(Pool aus Datenbank entfernen)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(open rechts), dann"
 
 msgid ", new Metadata vdev is a "
 msgstr ", neue Metadate vdev ist ein "
@@ -264,7 +264,9 @@ msgid ""
 "</i>is in the database but not connected to the machine. If it was exported "
 "by     mistake, reconnect the hardware and use <b>Import Pool</b>.<br /><br "
 "/>"
-msgstr ""
+msgstr "</i>ist in der Datenbank aer nicht mit der Maschine verbunden. Wenn es "
+"aus Versehen importiert wurde, verbinden Sie die Hardware neu und benutzen "
+"<b>Importiere Pool</b>.<br /><br />"
 
 msgid ""
 "<a "
